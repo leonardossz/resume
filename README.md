@@ -42,6 +42,18 @@ A Software Engineer building software for a living with passion!
 + [Netflix Conductor](https://netflix.github.io/conductor/)
 
 ## Research Assistant @ [Universität Passau](https://www.uni-passau.de/en/) (Jun 2016 - July 2017)
+
++ Member of [NLP & Semantic Group](http://nlp-sc.de)
++ Building state of the art software to address Natural Language Processing challenges, like:
++ Co-reference resolution, Named Entity Resolution and Linking, Distributional Semantics, Semantic Search, Machine Translation & Question answering
++ Co-author of [Schema-agnostic databases](https://en.wikipedia.org/wiki/Schema-agnostic_databases)
++ Contributed to the [OSS Comunity](https://lambda3.org)
+  + [Stargraph](https://github.com/Lambda-3/Stargraph): A Graph database to query large Knowledge Graphs 
+  + [Indra](http://lambda3.org/Indra/): Semantic Relatedness Service
++ Java, Spring, Lucene Library, CoreNLP, Scikit-learn, 
++ ElasticSearch, Word2Vec, Docker 
+
+
 ## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
 ## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007)
