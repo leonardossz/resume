@@ -10,7 +10,7 @@ A Software Engineer building software for a living with passion!
 ## Research Assistant @ [Universität Passau](https://www.uni-passau.de/en/) (Jun 2016 - July 2017)
 ## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
-## System Administrator @ [Elnet Hightech - Grupo MK de Comunicação]() (Jan 2006 - Jan 2007)
+## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007)
 ## Software Developer Intern @ [Fundaçao Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
 ## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Feb 2002 - Mar 2003)
 
