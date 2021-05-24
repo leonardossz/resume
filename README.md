@@ -4,6 +4,12 @@ A Software Engineer building software for a living with passion!
 
 [Email](mailto:lsouza@amterano.net) | [Blog](https://amterano.net) | [LinkedIn](https://linkedin.com/in/leonardossz) | [GitHub](https://github.com/leonardossz)
 
+# Languages
+
++ Portuguese (Native)
++ English (Professional proficiency)
++ German (B1)
+
 # Experience
 
 ## Senior IT Consultant @ [.msg](https://msg.group) (Jul 2017 - Present)
@@ -57,12 +63,12 @@ A Software Engineer building software for a living with passion!
 
 ## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
 
-+ Founder of seed funded Startup focused on Semantic Technology & Information Retrieval, so-called Semantic Search
++ Founder of seed funded Startup focused on Semantic Technology & Information Retrieval
 + AWS cloud & On-premises
 + Brought together Academic Research and Industry while building the company's vision about Semantic Computing
-+ Built Semantic models from huge dataset like Wikipedia, [OSS contribution](https://github.com/attardi/wikiextractor)
++ Built Semantic models from big datasets like Wikipedia, [OSS contribution](https://github.com/attardi/wikiextractor)
 + C/C++, Java, Python, ElasticSearch, Solr, Lucene
-+ MongoDB, MySQL,Virtuoso, [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
++ MongoDB, MySQL, Virtuoso, [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 + Web2Py
 
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
@@ -88,7 +94,7 @@ A Software Engineer building software for a living with passion!
 + MySQL, Postgres, Python, Bash
 + Postman Mail Server
 
-## Software Developer Intern @ [Fundaçao Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
+## Software Developer Intern @ [Fundação Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
 
 + Intern Software Developer for the Brazilian Navy
 + Java, Tomcat, JSP, Delphi 6, Oracle PLSQL
@@ -108,8 +114,3 @@ A Software Engineer building software for a living with passion!
 + Bachelor's degree, Computer Science @ [Universidade Federal do Rio de Janeiro, UFRJ](https://ufrj.br/) (1999-2006)
 + Associate's Degree, Eletro-mechanics @ [Instituto Federal do Rio Grande do Norte, IFRN (formerly ETFRN)](https://portal.ifrn.edu.br/) (1995-1998)
 
-# Languages
-
-+ Portuguese (Native)
-+ English (Professional proficiency)
-+ German (B1)
