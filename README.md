@@ -6,7 +6,41 @@ A Software Engineer building software for a living with passion!
 
 # Experience
 
-## Senior It Consultant @ [.msg](https://msg.group) (Jul 2017 - Present)
+## Senior IT Consultant @ [.msg](https://msg.group) (Jul 2017 - Present)
+
+### Projects
+
+#### Scalable REST API for Reinsurance Industry
+
++ Role: Senior Backend & DevOps Engineer 
++ Microsoft Azure Cloud
++ NodeJS, Typescript, Python, Bash, Terraform, Docker
++ Azure Kubernetes Service, MSSQL, CosmosDB, Azure API Management
++ Azure ServiceBus, Azure Pipelines, Azure Data Factory, AppInsights, Azure Storage
+
+#### SaaS Solution for Innovation Process
+
++ Role: Senior Backend Lead & DevOps Engineer
++ AWS Cloud
++ Angular, Typescript, NodeJS, Terraform, Bash
++ Express, Docker, Jenkins
++ EKS (Kubernetes), EC2, RDS (MySQL), S3, SQS, SES, Route53, Cloudfront, EC2, ELB, Cloudwatch
+
+#### MVP for Supply Chain Industry
+
++ Role: Senior Software Developer
++ Microsoft Azure Cloud
++ Python, R, Bash
++ Docker
+
+#### Scalable REST API for Reinsurance Industry
+
++ Role: Senior Software Engineer 
++ Docker, Rancher
++ Angular, NodeJS, Typescript, Bash
++ Azure CosmosDB, Azure App Insights
++ [Netflix Conductor](https://netflix.github.io/conductor/)
+
 ## Research Assistant @ [Universität Passau](https://www.uni-passau.de/en/) (Jun 2016 - July 2017)
 ## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
