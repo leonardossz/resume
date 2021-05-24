@@ -52,9 +52,17 @@ A Software Engineer building software for a living with passion!
   + [Indra](http://lambda3.org/Indra/): Semantic Relatedness Service
 + Java, Spring, Lucene Library, CoreNLP, Scikit-learn, 
 + ElasticSearch, Word2Vec, Docker 
-
++ [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 
 ## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
+
++ Founder of seed funded Startup focused on Semantic Technology & Information Retrieval, so-called Semantic Search
++ Brought together Academic Research and Industry while building the company's vision about Semantic Computing
++ Built Semantic models from huge dataset like Wikipedia, [OSS contribution](https://github.com/attardi/wikiextractor)
++ AWS cloud & On-premises
++ C/C++, Java, Python, ElasticSearch, Solr, Lucene
++ MongoDB, MySQL,Virtuoso, [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
+
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
 ## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007)
 ## Software Developer Intern @ [Fundaçao Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
@@ -62,7 +70,7 @@ A Software Engineer building software for a living with passion!
 
 # Publications
 
-+ [Indra: A Word Embedding and Semantic Relatedness Server](http://andrefreitas.org/papers/indra_framework_lrec_2018.pdf), LREC 2018
++ [Indra: A Word Embedding and Semantic Relatedness Server](https://www.aclweb.org/anthology/L18-1211.pdf), LREC 2018
 
 # Education
 
