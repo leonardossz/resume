@@ -67,7 +67,6 @@ A Software Engineer building software for a living with passion!
 
 ## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
 
-+ Software Engineer
 + On-premises
 + Collaborated mainly in projects between Tecgraf and [Petrobras](https://fortune.com/company/petrobras/global500/) (A Fortune 500 Oil Company)
 + Collaborated on a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) Java Swing client
@@ -76,11 +75,29 @@ A Software Engineer building software for a living with passion!
 + Integrated SOAP & CORBA services in a Service Bus leveraging software components reuse
 + Java, RMI, Swing, Java Web Start, Tomcat, Oracle DB 8i, Solr, Lucene
 + Ant, Bash, Maven
-+ SunOS, Red Hat, CentOS  
++ SunOS, Red Hat, CentOS
++ SOAP, CORBA
 
 ## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007)
+
++ On-premises, IOS (Internet Operating System - Cisco Routers)
++ Maintaining hundreds of domains and websites up and running
++ Redhat-Linux, Windows 2000 Server
++ Apache & IIS HTTP Servers
++ IPTables, SQUID proxy
++ MySQL, Postgres, Python, Bash
++ Postman Mail Server
+
 ## Software Developer Intern @ [Fundaçao Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
+
++ Intern Software Developer for the Brazilian Navy
++ Java, Tomcat, JSP, Delphi 6, Oracle PLSQL
+
 ## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Feb 2002 - Mar 2003)
+
++ Intern Software developer
++ Creating Add-ins for MS Excel to expand its financial capabilities
++ VB6, C/C++, Fortran, SQL, MS Access, Excel 
 
 # Publications
 
