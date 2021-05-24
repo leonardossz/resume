@@ -99,7 +99,7 @@ A Software Engineer building software for a living with passion!
 + Intern Software Developer for the Brazilian Navy
 + Java, Tomcat, JSP, Delphi 6, Oracle PLSQL
 
-## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Feb 2002 - Mar 2003)
+## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Feb 2000 - Dec 2001)
 
 + Intern Software developer
 + Creating Add-ins for MS Excel to expand its financial capabilities
