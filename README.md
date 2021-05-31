@@ -4,6 +4,22 @@ A Software Engineer building software for a living with passion!
 
 [Email](mailto:lsouza@amterano.net) | [Blog](https://amterano.net) | [LinkedIn](https://linkedin.com/in/leonardossz) | [GitHub](https://github.com/leonardossz)
 
+# Technical Skills for the Busiest Recruiter
+
+Certainly incomplete and in no particular order. For context read through my Experience Section, please.
+
++ Linux OS
++ Git, Mercurial
++ Java, Python, Typescript, C/C++, Bash
++ AWS Cloud, Azure Cloud, Terraform, Jenkins
++ JSON, JSONPath, XML, YAML, HTML
++ Nginx, HTTP Apache, Apache Tomcat, Eclipse Jetty
++ Apache Solr, ElasticSearch, Lucene
++ MySQL, Postgres, OracleDB, MongoDB, CosmosDB
++ Spring Framework, Express, Angular
++ SOAP WebServices, CORBA, RESTful APIs, Java RMI
++ Kubernetes, Docker, Microservices
+
 # Languages
 
 + Portuguese (Native)
