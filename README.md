@@ -10,7 +10,7 @@ Certainly incomplete and in no particular order. For context read through my Exp
 
 + Linux OS
 + Git, Mercurial
-+ Java, Python, Typescript, C/C++, Bash
++ Java, Python, Typescript, C/C++, SQL, Bash
 + AWS Cloud, Azure Cloud, Terraform, Jenkins
 + JSON, JSONPath, XML, YAML, HTML
 + Nginx, HTTP Apache, Apache Tomcat, Eclipse Jetty
