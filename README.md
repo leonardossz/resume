@@ -20,6 +20,11 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + SOAP WebServices, CORBA, RESTful APIs, Java RMI
 + Kubernetes, Docker, Microservices
 
+# Education
+
++ Bachelor's degree, Computer Science @ [Universidade Federal do Rio de Janeiro, UFRJ](https://ufrj.br/) (1999-2006)
++ Associate's Degree, Eletro-mechanics @ [Instituto Federal do Rio Grande do Norte, IFRN (formerly ETFRN)](https://portal.ifrn.edu.br/) (1995-1998)
+
 # Languages
 
 + Portuguese (Native)
@@ -124,9 +129,4 @@ Certainly incomplete and in no particular order. For context read through my Exp
 # Publications
 
 + [Indra: A Word Embedding and Semantic Relatedness Server](https://www.aclweb.org/anthology/L18-1211.pdf), LREC 2018
-
-# Education
-
-+ Bachelor's degree, Computer Science @ [Universidade Federal do Rio de Janeiro, UFRJ](https://ufrj.br/) (1999-2006)
-+ Associate's Degree, Eletro-mechanics @ [Instituto Federal do Rio Grande do Norte, IFRN (formerly ETFRN)](https://portal.ifrn.edu.br/) (1995-1998)
 
