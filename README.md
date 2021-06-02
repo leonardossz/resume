@@ -27,9 +27,9 @@ For context read through my Experience Section, please.
 
 # Languages
 
-+ Portuguese (Native)
++ German (B2)
 + English (Professional proficiency)
-+ German (B1)
++ Portuguese (Native)
 
 # Experience
 
