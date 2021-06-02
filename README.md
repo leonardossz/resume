@@ -6,19 +6,19 @@ A Software Engineer building software for a living with passion!
 
 # Technical Skills for the Busiest Recruiter
 
-Certainly incomplete and in no particular order. For context read through my Experience Section, please.
+For context read through my Experience Section, please.
 
-+ Linux OS
-+ Git, Mercurial
-+ Java, Python, Typescript, C/C++, SQL, Bash
 + AWS Cloud, Azure Cloud, Terraform, Jenkins
++ Kubernetes, Docker, Microservices, RESTful APIs
++ Java, Python, Typescript, C/C++, SQL, Bash
 + JSON, JSONPath, XML, YAML, HTML
++ Spring Framework, Express, Angular
 + Nginx, HTTP Apache, Apache Tomcat, Eclipse Jetty
 + Apache Solr, ElasticSearch, Lucene
 + MySQL, Postgres, OracleDB, MongoDB, CosmosDB
-+ Spring Framework, Express, Angular
-+ SOAP WebServices, CORBA, RESTful APIs, Java RMI
-+ Kubernetes, Docker, Microservices
++ SOAP WebServices, CORBA, Java RMI
++ Git, Mercurial
++ Linux OS
 
 # Education
 
@@ -68,7 +68,7 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + Azure CosmosDB, Azure App Insights
 + [Netflix Conductor](https://netflix.github.io/conductor/)
 
-## Research Assistant @ [Universität Passau](https://www.uni-passau.de/en/) (Jun 2016 - July 2017)
+## Research Assistant @ [Universität Passau](https://www.uni-passau.de/en/) (Jun 2016 - July 2017, 1 year)
 
 + Member of [NLP & Semantic Group](http://nlp-sc.de)
 + On-premises, Gitlab
@@ -82,7 +82,7 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + ElasticSearch, Word2Vec, Docker 
 + [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 
-## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016)
+## Founder & CTO @ [Amtera Semantic Technologies](https://www.crunchbase.com/organization/amtera-semantic-technologies) (Feb 2012 - Jun 2016, 4 years)
 
 + Founder of seed funded Startup focused on Semantic Technology & Information Retrieval
 + AWS cloud & On-premises
@@ -92,7 +92,7 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + MongoDB, MySQL, Virtuoso, [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 + Web2Py
 
-## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012)
+## Software Engineer @ [Instituto Tecgraf](https://www.tecgraf.puc-rio.br/) (Feb 2007 - Feb 2012, 5 years)
 
 + On-premises
 + Collaborated mainly in projects between Tecgraf and [Petrobras](https://fortune.com/company/petrobras/global500/) (A Fortune 500 Oil Company)
@@ -105,7 +105,7 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + SunOS, Red Hat, CentOS
 + SOAP, CORBA
 
-## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007)
+## System Administrator @ [Elnet Hightech - Grupo MK]() (Jan 2006 - Jan 2007, 1 year)
 
 + On-premises, IOS (Internet Operating System - Cisco Routers)
 + Maintaining hundreds of domains and websites up and running
@@ -115,12 +115,12 @@ Certainly incomplete and in no particular order. For context read through my Exp
 + MySQL, Postgres, Python, Bash
 + Postman Mail Server
 
-## Software Developer Intern @ [Fundação Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003)
+## Software Developer Intern @ [Fundação Coppetec](http://www.coppetec.coppe.ufrj.br) (Feb 2002 - Mar 2003, 1 year)
 
 + Intern Software Developer for the Brazilian Navy
 + Java, Tomcat, JSP, Delphi 6, Oracle PLSQL
 
-## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Feb 2000 - Dec 2001)
+## Software Developer Intern @ [Financial Consultoria Economica](http://www.fce.com.br/) (Jan 2000 - Dec 2001, 2 years)
 
 + Intern Software developer
 + Creating Add-ins for MS Excel to expand its financial capabilities
