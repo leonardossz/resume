@@ -37,7 +37,7 @@ For context read through my Experience Section, please.
 
 ### Projects
 
-#### Scalable REST API for Reinsurance Industry
+#### REST API for Reinsurance Industry: Underwriting digitization - phase 2
 
 + Role: Senior Backend & DevOps Engineer 
 + Microsoft Azure Cloud
@@ -60,11 +60,11 @@ For context read through my Experience Section, please.
 + Python, R, Bash
 + Docker
 
-#### Scalable REST API for Reinsurance Industry
+#### REST API for Reinsurance Industry: Underwriting digitization - phase 1
 
 + Role: Senior Software Engineer 
 + Docker, Rancher
-+ Angular, NodeJS, Typescript, Bash
++ NodeJS, Typescript, Bash
 + Azure CosmosDB, Azure App Insights
 + [Netflix Conductor](https://netflix.github.io/conductor/)
 
